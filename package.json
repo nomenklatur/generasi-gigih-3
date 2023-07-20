@@ -1,0 +1,30 @@
+{
+  "name": "generasi-gigih-3",
+  "version": "1.0.0",
+  "description": "![gengigih-logo](https://github.com/nomenklatur/generasi-gigih-3/assets/88763669/a48326a6-7c46-450a-8b91-245f69d2a93c)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomenklatur/generasi-gigih-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomenklatur/generasi-gigih-3/issues"
+  },
+  "homepage": "https://github.com/nomenklatur/generasi-gigih-3#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
